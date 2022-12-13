@@ -1,9 +1,4 @@
-# Coötoo & Distrotron - Mintbase Grant Proposal
 
-- **Project Name:** Coötoo 
-- **Team Name:** Stateless (pending DAO legal incorporation)
-- **Payment Address:** stateless.near
-- **Level:** 1 (up to 10k)
 
 ## Project Overview 
 
@@ -97,13 +92,6 @@ Our users will be groups of artists that are either already formed or are in the
 
 We will be creating our own example experiment / instance in the form of the StatelessDAO co-op, and joining our toolkit users in this adventure of figuring out how a cooperative can look like in the web3 world.
 
-
-
-* What need(s) does Coötoo meet?
-
-Cooperation is a human need, and it’s one hardwired into our biology. The human species excels in in-group cooperation, even while we might perform out-group competition for limited resources. We are beautiful and complex social beings, and as modern research now acknowledges, “survival of the (individual) fittest” is a reductionist myth. Even people who are not evolution science scholars, by just looking around one’s life can easily see plenty of examples of cooperation. It just makes sense (and feels good).
-
-Artists are human, and the hardness of earning a living doing art makes this a great environment for beneficial in-group cooperation. Having at their disposal extra help from automated tools can greatly potentialize these beneficial outcomes for groups of artists.
 
 
 
